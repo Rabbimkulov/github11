@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    height: 100vh;
+}
+.div {
+    margin: auto;
+    word-spacing: 10px;
+}
+.icon {
+    font-size: 35px;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+.facebook {
+    color: mediumblue;
+}
+.twitter {
+    color: dodgerblue;
+}
+.google {
+    color: red;
+}
+.globe {
+    color: palevioletred;
+}
+.skype {
+    color: deepskyblue;
+}
